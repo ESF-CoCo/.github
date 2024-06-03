@@ -1,3 +1,3 @@
 # ESF CoCo
 
-Official repository for [ESF CoCo 2024](https://www.esf-coco.com/).
+Official repository for the annual [ESF Coding Conference](https://www.esf-coco.com/).
